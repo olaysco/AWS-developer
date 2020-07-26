@@ -1,3 +1,4 @@
+![AWS LOGO](https://github.com/olaysco/AWS-developer/blob/master/aws_logo.png)
 # AWS-developer
 AWS certified associate developer learning materials and notes.
 
